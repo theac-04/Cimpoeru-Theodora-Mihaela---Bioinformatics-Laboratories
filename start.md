@@ -1,0 +1,1 @@
+This repository has been created as my weekly logs for the Bioinformatics laboratories within the Faculty of Engineering in Foreign Languages.
